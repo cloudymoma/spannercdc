@@ -30,7 +30,7 @@ CREATE TABLE spez_poller_table (
 
 git clone https://github.com/GoogleCloudPlatform/DataflowTemplates
 
-4.2.Modify PubsubToAvro.java to support read from subscription instead of topic
+4.2.Please modify PubsubToAvro.java to support read from subscription instead of topic
 
 ```$xslt
 //change line 181
